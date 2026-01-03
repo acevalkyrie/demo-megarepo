@@ -1,0 +1,17 @@
+C:\Users\mmsor\Documents\Classes\W25\COMS276\09 - Final\LZelley Final Project\LZelley Final Project\bin\x64\Debug\LZelley Final Project.exe.config
+C:\Users\mmsor\Documents\Classes\W25\COMS276\09 - Final\LZelley Final Project\LZelley Final Project\bin\x64\Debug\LZelley Final Project.exe
+C:\Users\mmsor\Documents\Classes\W25\COMS276\09 - Final\LZelley Final Project\LZelley Final Project\bin\x64\Debug\LZelley Final Project.pdb
+C:\Users\mmsor\Documents\Classes\W25\COMS276\09 - Final\LZelley Final Project\LZelley Final Project\obj\x64\Debug\LZelley Final Project.csproj.AssemblyReference.cache
+C:\Users\mmsor\Documents\Classes\W25\COMS276\09 - Final\LZelley Final Project\LZelley Final Project\obj\x64\Debug\LZelley_Final_Project.frmAddPrompt.resources
+C:\Users\mmsor\Documents\Classes\W25\COMS276\09 - Final\LZelley Final Project\LZelley Final Project\obj\x64\Debug\LZelley_Final_Project.frmGetPrompt.resources
+C:\Users\mmsor\Documents\Classes\W25\COMS276\09 - Final\LZelley Final Project\LZelley Final Project\obj\x64\Debug\LZelley_Final_Project.frmLanding.resources
+C:\Users\mmsor\Documents\Classes\W25\COMS276\09 - Final\LZelley Final Project\LZelley Final Project\obj\x64\Debug\LZelley_Final_Project.Properties.Resources.resources
+C:\Users\mmsor\Documents\Classes\W25\COMS276\09 - Final\LZelley Final Project\LZelley Final Project\obj\x64\Debug\LZelley Final Project.csproj.GenerateResource.cache
+C:\Users\mmsor\Documents\Classes\W25\COMS276\09 - Final\LZelley Final Project\LZelley Final Project\obj\x64\Debug\LZelley Final Project.csproj.CoreCompileInputs.cache
+C:\Users\mmsor\Documents\Classes\W25\COMS276\09 - Final\LZelley Final Project\LZelley Final Project\obj\x64\Debug\LZelley Final Project.exe
+C:\Users\mmsor\Documents\Classes\W25\COMS276\09 - Final\LZelley Final Project\LZelley Final Project\obj\x64\Debug\LZelley Final Project.pdb
+C:\Users\mmsor\Documents\Classes\W25\COMS276\09 - Final\LZelley Final Project\LZelley Final Project\bin\x64\Debug\Prompts.accdb
+C:\Users\mmsor\Documents\Classes\W25\COMS276\09 - Final\LZelley Final Project\LZelley Final Project\bin\x64\Debug\LZelley Final Project.exe.manifest
+C:\Users\mmsor\Documents\Classes\W25\COMS276\09 - Final\LZelley Final Project\LZelley Final Project\bin\x64\Debug\LZelley Final Project.application
+C:\Users\mmsor\Documents\Classes\W25\COMS276\09 - Final\LZelley Final Project\LZelley Final Project\obj\x64\Debug\LZelley Final Project.exe.manifest
+C:\Users\mmsor\Documents\Classes\W25\COMS276\09 - Final\LZelley Final Project\LZelley Final Project\obj\x64\Debug\LZelley Final Project.application
