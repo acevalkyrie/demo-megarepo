@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Mod 7 Program 1", "Mod 7 Program 1\", "{899D178C-8E4A-448E-A1E4-870D7D54F383}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53789"
+		Debug.AspNetCompiler.PhysicalPath = "Mod 7 Program 1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53789\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53789"
+		Release.AspNetCompiler.PhysicalPath = "Mod 7 Program 1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53789\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53789"
+		SlnRelativePath = "Mod 7 Program 1\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{899D178C-8E4A-448E-A1E4-870D7D54F383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899D178C-8E4A-448E-A1E4-870D7D54F383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899D178C-8E4A-448E-A1E4-870D7D54F383}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{899D178C-8E4A-448E-A1E4-870D7D54F383}.Debug|x64.Build.0 = Debug|Any CPU
+		{899D178C-8E4A-448E-A1E4-870D7D54F383}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{899D178C-8E4A-448E-A1E4-870D7D54F383}.Debug|x86.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12CE3C45-3EB8-4027-A986-6D72BDD72921}
+	EndGlobalSection
+EndGlobal
